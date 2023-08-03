@@ -10,5 +10,5 @@ The application checks in real time whether the specified website is active. The
 **In the program, it is possible to connect to the pushbullet app on a smartphone. When the application detects that the site is active it will send a notification to your mobile phone.**
 
 ## App's UI:
-![Screenshot-1](UI_screen/1.png?raw=true "Webpage detected as active")
-![Screenshot-2](UI_screen/2.png?raw=true "Webpage detected as inactive or non existant")
+![Screenshot-1](UI_screen/1.png)
+![Screenshot-2](UI_screen/2.png)
