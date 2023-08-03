@@ -13,7 +13,6 @@ from PyQt5.QtWidgets import QMessageBox
 from pushbullet import PushBullet
 from pushbullet import errors
 
-#o.cjL92u09nKt4AOgfYj3eXqDlLG1B2DDS
 class Worker(QObject):
     finished = pyqtSignal()
     progress = pyqtSignal(int)
